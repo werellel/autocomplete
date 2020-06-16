@@ -6,4 +6,4 @@
   
 * 알고리즘
   1. edit distance
-    a. levenstein distance
+		– levenstein distance
