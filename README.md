@@ -6,7 +6,7 @@
   1. trie
   2. bloom filter
   
-* Algorhtim
+* Algorithm
   1. edit distance
       * levenstein distance
       * weighted levenstein distance
