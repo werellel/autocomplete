@@ -10,3 +10,5 @@
   1. edit distance
       * levenstein distance
       * weighted levenstein distance
+  2. deep learning
+      * fasttext
